@@ -1,0 +1,402 @@
+[
+    {
+        "Dansk": "god",
+        "Engelsk": "good"
+    },
+    {
+        "Dansk": "ny",
+        "Engelsk": "new"
+    },
+    {
+        "Dansk": "gammel",
+        "Engelsk": "old"
+    },
+    {
+        "Dansk": "stor",
+        "Engelsk": "big"
+    },
+    {
+        "Dansk": "lille",
+        "Engelsk": "small"
+    },
+    {
+        "Dansk": "ung",
+        "Engelsk": "young"
+    },
+    {
+        "Dansk": "dansk",
+        "Engelsk": "Danish"
+    },
+    {
+        "Dansk": "nem",
+        "Engelsk": "easy"
+    },
+    {
+        "Dansk": "anden",
+        "Engelsk": "other"
+    },
+    {
+        "Dansk": "sidste",
+        "Engelsk": "last"
+    },
+    {
+        "Dansk": "lang",
+        "Engelsk": "long"
+    },
+    {
+        "Dansk": "høj",
+        "Engelsk": "high"
+    },
+    {
+        "Dansk": "forskellig",
+        "Engelsk": "different"
+    },
+    {
+        "Dansk": "vigtig",
+        "Engelsk": "important"
+    },
+    {
+        "Dansk": "fri",
+        "Engelsk": "free"
+    },
+    {
+        "Dansk": "tidligere",
+        "Engelsk": "former"
+    },
+    {
+        "Dansk": "egen",
+        "Engelsk": "own"
+    },
+    {
+        "Dansk": "klar",
+        "Engelsk": "clear"
+    },
+    {
+        "Dansk": "rigtig",
+        "Engelsk": "real"
+    },
+    {
+        "Dansk": "eneste",
+        "Engelsk": "only"
+    },
+    {
+        "Dansk": "hurtig",
+        "Engelsk": "fast"
+    },
+    {
+        "Dansk": "offentlig",
+        "Engelsk": "public"
+    },
+    {
+        "Dansk": "almindelig",
+        "Engelsk": "common"
+    },
+    {
+        "Dansk": "flot",
+        "Engelsk": "handsome"
+    },
+    {
+        "Dansk": "flere",
+        "Engelsk": "more"
+    },
+    {
+        "Dansk": "bedste",
+        "Engelsk": "best"
+    },
+    {
+        "Dansk": "sort",
+        "Engelsk": "black"
+    },
+    {
+        "Dansk": "fuld",
+        "Engelsk": "full"
+    },
+    {
+        "Dansk": "kold",
+        "Engelsk": "cold"
+    },
+    {
+        "Dansk": "ren",
+        "Engelsk": "clean"
+    },
+    {
+        "Dansk": "lav",
+        "Engelsk": "low"
+    },
+    {
+        "Dansk": "stærk",
+        "Engelsk": "strong"
+    },
+    {
+        "Dansk": "billig",
+        "Engelsk": "cheap"
+    },
+    {
+        "Dansk": "sund",
+        "Engelsk": "healthy"
+    },
+    {
+        "Dansk": "svær",
+        "Engelsk": "difficult"
+    },
+    {
+        "Dansk": "blå",
+        "Engelsk": "blue"
+    },
+    {
+        "Dansk": "hvid",
+        "Engelsk": "white"
+    },
+    {
+        "Dansk": "varm",
+        "Engelsk": "warm"
+    },
+    {
+        "Dansk": "glad",
+        "Engelsk": "happy"
+    },
+    {
+        "Dansk": "grøn",
+        "Engelsk": "green"
+    },
+    {
+        "Dansk": "rød",
+        "Engelsk": "red"
+    },
+    {
+        "Dansk": "sen",
+        "Engelsk": "late"
+    },
+    {
+        "Dansk": "rig",
+        "Engelsk": "rich"
+    },
+    {
+        "Dansk": "sjov",
+        "Engelsk": "funny"
+    },
+    {
+        "Dansk": "tom",
+        "Engelsk": "empty"
+    },
+    {
+        "Dansk": "dyb",
+        "Engelsk": "deep"
+    },
+    {
+        "Dansk": "bred",
+        "Engelsk": "wide"
+    },
+    {
+        "Dansk": "stolt",
+        "Engelsk": "proud"
+    },
+    {
+        "Dansk": "hård",
+        "Engelsk": "hard"
+    },
+    {
+        "Dansk": "skarp",
+        "Engelsk": "sharp"
+    },
+    {
+        "Dansk": "våd",
+        "Engelsk": "wet"
+    },
+    {
+        "Dansk": "tyk",
+        "Engelsk": "thick"
+    },
+    {
+        "Dansk": "tør",
+        "Engelsk": "dry"
+    },
+    {
+        "Dansk": "sikker",
+        "Engelsk": "safe"
+    },
+    {
+        "Dansk": "øverste",
+        "Engelsk": "top"
+    },
+    {
+        "Dansk": "uheldig",
+        "Engelsk": "unlucky"
+    },
+    {
+        "Dansk": "smuk",
+        "Engelsk": "beautiful"
+    },
+    {
+        "Dansk": "fattig",
+        "Engelsk": "poor"
+    },
+    {
+        "Dansk": "lykkelig",
+        "Engelsk": "happy"
+    },
+    {
+        "Dansk": "kedelig",
+        "Engelsk": "boring"
+    },
+    {
+        "Dansk": "stram",
+        "Engelsk": "tight"
+    },
+    {
+        "Dansk": "levende",
+        "Engelsk": "alive"
+    },
+    {
+        "Dansk": "skøn",
+        "Engelsk": "beautiful"
+    },
+    {
+        "Dansk": "højre",
+        "Engelsk": "right"
+    },
+    {
+        "Dansk": "skør",
+        "Engelsk": "crazy"
+    },
+    {
+        "Dansk": "venstre",
+        "Engelsk": "left"
+    },
+    {
+        "Dansk": "grim",
+        "Engelsk": "ugly"
+    },
+    {
+        "Dansk": "vild",
+        "Engelsk": "wild"
+    },
+    {
+        "Dansk": "blød",
+        "Engelsk": "soft"
+    },
+    {
+        "Dansk": "længe",
+        "Engelsk": "long"
+    },
+    {
+        "Dansk": "grov",
+        "Engelsk": "rough"
+    },
+    {
+        "Dansk": "lukket",
+        "Engelsk": "closed"
+    },
+    {
+        "Dansk": "ødelagt",
+        "Engelsk": "broken"
+    },
+    {
+        "Dansk": "sulten",
+        "Engelsk": "hungry"
+    },
+    {
+        "Dansk": "blank",
+        "Engelsk": "blank"
+    },
+    {
+        "Dansk": "klog",
+        "Engelsk": "wise"
+    },
+    {
+        "Dansk": "gennemsnitlig",
+        "Engelsk": "average"
+    },
+    {
+        "Dansk": "åben",
+        "Engelsk": "open"
+    },
+    {
+        "Dansk": "sær",
+        "Engelsk": "odd"
+    },
+    {
+        "Dansk": "heldig",
+        "Engelsk": "lucky"
+    },
+    {
+        "Dansk": "højlydt",
+        "Engelsk": "loud"
+    },
+    {
+        "Dansk": "fremmed",
+        "Engelsk": "strange"
+    },
+    {
+        "Dansk": "rund",
+        "Engelsk": "round"
+    },
+    {
+        "Dansk": "gammeldags",
+        "Engelsk": "old-fashioned"
+    },
+    {
+        "Dansk": "følgende",
+        "Engelsk": "following"
+    },
+    {
+        "Dansk": "nervøs",
+        "Engelsk": "nervous"
+    },
+    {
+        "Dansk": "mørk",
+        "Engelsk": "dark"
+    },
+    {
+        "Dansk": "træt",
+        "Engelsk": "tired"
+    },
+    {
+        "Dansk": "behagelig",
+        "Engelsk": "comfortable"
+    },
+    {
+        "Dansk": "øm",
+        "Engelsk": "tender"
+    },
+    {
+        "Dansk": "lys",
+        "Engelsk": "light"
+    },
+    {
+        "Dansk": "stille",
+        "Engelsk": "quiet"
+    },
+    {
+        "Dansk": "moderne",
+        "Engelsk": "modern"
+    },
+    {
+        "Dansk": "doven",
+        "Engelsk": "lazy"
+    },
+    {
+        "Dansk": "usynlig",
+        "Engelsk": "invisible"
+    },
+    {
+        "Dansk": "spændende",
+        "Engelsk": "exciting"
+    },
+    {
+        "Dansk": "usædvanlig",
+        "Engelsk": "unusual"
+    },
+    {
+        "Dansk": "rolig",
+        "Engelsk": "calm"
+    },
+    {
+        "Dansk": "aktiv",
+        "Engelsk": "active"
+    },
+    {
+        "Dansk": "farverig",
+        "Engelsk": "colorful"
+    }
+]
