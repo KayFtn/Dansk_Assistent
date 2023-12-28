@@ -1,0 +1,682 @@
+[
+    {
+        "Dansk": "menneske",
+        "Engelsk": "person"
+    },
+    {
+        "Dansk": "tid",
+        "Engelsk": "time"
+    },
+    {
+        "Dansk": "dag",
+        "Engelsk": "day"
+    },
+    {
+        "Dansk": "år",
+        "Engelsk": "year"
+    },
+    {
+        "Dansk": "sted",
+        "Engelsk": "place"
+    },
+    {
+        "Dansk": "ting",
+        "Engelsk": "thing"
+    },
+    {
+        "Dansk": "måned",
+        "Engelsk": "month"
+    },
+    {
+        "Dansk": "aften",
+        "Engelsk": "evening"
+    },
+    {
+        "Dansk": "morgen",
+        "Engelsk": "morning"
+    },
+    {
+        "Dansk": "nat",
+        "Engelsk": "night"
+    },
+    {
+        "Dansk": "hus",
+        "Engelsk": "house"
+    },
+    {
+        "Dansk": "børn",
+        "Engelsk": "children"
+    },
+    {
+        "Dansk": "liv",
+        "Engelsk": "life"
+    },
+    {
+        "Dansk": "del",
+        "Engelsk": "part"
+    },
+    {
+        "Dansk": "arbejde",
+        "Engelsk": "work"
+    },
+    {
+        "Dansk": "penge",
+        "Engelsk": "money"
+    },
+    {
+        "Dansk": "vej",
+        "Engelsk": "road"
+    },
+    {
+        "Dansk": "dør",
+        "Engelsk": "door"
+    },
+    {
+        "Dansk": "by",
+        "Engelsk": "city"
+    },
+    {
+        "Dansk": "vand",
+        "Engelsk": "water"
+    },
+    {
+        "Dansk": "luft",
+        "Engelsk": "air"
+    },
+    {
+        "Dansk": "jord",
+        "Engelsk": "earth"
+    },
+    {
+        "Dansk": "træ",
+        "Engelsk": "tree"
+    },
+    {
+        "Dansk": "plads",
+        "Engelsk": "space"
+    },
+    {
+        "Dansk": "arbejdsplads",
+        "Engelsk": "workplace"
+    },
+    {
+        "Dansk": "familie",
+        "Engelsk": "family"
+    },
+    {
+        "Dansk": "ven",
+        "Engelsk": "friend"
+    },
+    {
+        "Dansk": "bog",
+        "Engelsk": "book"
+    },
+    {
+        "Dansk": "film",
+        "Engelsk": "movie"
+    },
+    {
+        "Dansk": "musik",
+        "Engelsk": "music"
+    },
+    {
+        "Dansk": "mad",
+        "Engelsk": "food"
+    },
+    {
+        "Dansk": "drikke",
+        "Engelsk": "drink"
+    },
+    {
+        "Dansk": "øjeblik",
+        "Engelsk": "moment"
+    },
+    {
+        "Dansk": "problem",
+        "Engelsk": "problem"
+    },
+    {
+        "Dansk": "sprog",
+        "Engelsk": "language"
+    },
+    {
+        "Dansk": "skole",
+        "Engelsk": "school"
+    },
+    {
+        "Dansk": "lærer",
+        "Engelsk": "teacher"
+    },
+    {
+        "Dansk": "elev",
+        "Engelsk": "student"
+    },
+    {
+        "Dansk": "billede",
+        "Engelsk": "picture"
+    },
+    {
+        "Dansk": "ord",
+        "Engelsk": "word"
+    },
+    {
+        "Dansk": "spil",
+        "Engelsk": "game"
+    },
+    {
+        "Dansk": "sport",
+        "Engelsk": "sport"
+    },
+    {
+        "Dansk": "verden",
+        "Engelsk": "world"
+    },
+    {
+        "Dansk": "land",
+        "Engelsk": "country"
+    },
+    {
+        "Dansk": "indtryk",
+        "Engelsk": "impression"
+    },
+    {
+        "Dansk": "oplevelse",
+        "Engelsk": "experience"
+    },
+    {
+        "Dansk": "rejse",
+        "Engelsk": "journey"
+    },
+    {
+        "Dansk": "tur",
+        "Engelsk": "trip"
+    },
+    {
+        "Dansk": "ferie",
+        "Engelsk": "vacation"
+    },
+    {
+        "Dansk": "historie",
+        "Engelsk": "history"
+    },
+    {
+        "Dansk": "tidspunkt",
+        "Engelsk": "time (point in time)"
+    },
+    {
+        "Dansk": "øje",
+        "Engelsk": "eye"
+    },
+    {
+        "Dansk": "hånd",
+        "Engelsk": "hand"
+    },
+    {
+        "Dansk": "fod",
+        "Engelsk": "foot"
+    },
+    {
+        "Dansk": "hoved",
+        "Engelsk": "head"
+    },
+    {
+        "Dansk": "hjerte",
+        "Engelsk": "heart"
+    },
+    {
+        "Dansk": "krop",
+        "Engelsk": "body"
+    },
+    {
+        "Dansk": "næse",
+        "Engelsk": "nose"
+    },
+    {
+        "Dansk": "mund",
+        "Engelsk": "mouth"
+    },
+    {
+        "Dansk": "øre",
+        "Engelsk": "ear"
+    },
+    {
+        "Dansk": "hårbørste",
+        "Engelsk": "hairbrush"
+    },
+    {
+        "Dansk": "tand",
+        "Engelsk": "tooth"
+    },
+    {
+        "Dansk": "nætter",
+        "Engelsk": "night (plural)"
+    },
+    {
+        "Dansk": "drøm",
+        "Engelsk": "dream"
+    },
+    {
+        "Dansk": "stjerne",
+        "Engelsk": "star"
+    },
+    {
+        "Dansk": "sol",
+        "Engelsk": "sun"
+    },
+    {
+        "Dansk": "måne",
+        "Engelsk": "moon"
+    },
+    {
+        "Dansk": "farve",
+        "Engelsk": "color"
+    },
+    {
+        "Dansk": "form",
+        "Engelsk": "shape"
+    },
+    {
+        "Dansk": "nummer",
+        "Engelsk": "number"
+    },
+    {
+        "Dansk": "brev",
+        "Engelsk": "letter"
+    },
+    {
+        "Dansk": "svar",
+        "Engelsk": "answer"
+    },
+    {
+        "Dansk": "spørgsmål",
+        "Engelsk": "question"
+    },
+    {
+        "Dansk": "løsning",
+        "Engelsk": "solution"
+    },
+    {
+        "Dansk": "ide",
+        "Engelsk": "idea"
+    },
+    {
+        "Dansk": "plan",
+        "Engelsk": "plan"
+    },
+    {
+        "Dansk": "opgave",
+        "Engelsk": "task"
+    },
+    {
+        "Dansk": "opdagelse",
+        "Engelsk": "discovery"
+    },
+    {
+        "Dansk": "kærlighed",
+        "Engelsk": "love"
+    },
+    {
+        "Dansk": "følelse",
+        "Engelsk": "feeling"
+    },
+    {
+        "Dansk": "glæde",
+        "Engelsk": "joy"
+    },
+    {
+        "Dansk": "sorg",
+        "Engelsk": "sorrow"
+    },
+    {
+        "Dansk": "smerte",
+        "Engelsk": "pain"
+    },
+    {
+        "Dansk": "håb",
+        "Engelsk": "hope"
+    },
+    {
+        "Dansk": "drage",
+        "Engelsk": "dragon"
+    },
+    {
+        "Dansk": "fugl",
+        "Engelsk": "bird"
+    },
+    {
+        "Dansk": "hund",
+        "Engelsk": "dog"
+    },
+    {
+        "Dansk": "kat",
+        "Engelsk": "cat"
+    },
+    {
+        "Dansk": "dyr",
+        "Engelsk": "animal"
+    },
+    {
+        "Dansk": "fisk",
+        "Engelsk": "fish"
+    },
+    {
+        "Dansk": "insekt",
+        "Engelsk": "insect"
+    },
+    {
+        "Dansk": "blomst",
+        "Engelsk": "flower"
+    },
+    {
+        "Dansk": "trøje",
+        "Engelsk": "sweater"
+    },
+    {
+        "Dansk": "bukser",
+        "Engelsk": "pants"
+    },
+    {
+        "Dansk": "sko",
+        "Engelsk": "shoes"
+    },
+    {
+        "Dansk": "hat",
+        "Engelsk": "hat"
+    },
+    {
+        "Dansk": "jakke",
+        "Engelsk": "jacket"
+    },
+    {
+        "Dansk": "taske",
+        "Engelsk": "bag"
+    },
+    {
+        "Dansk": "bil",
+        "Engelsk": "car"
+    },
+    {
+        "Dansk": "cykel",
+        "Engelsk": "bicycle"
+    },
+    {
+        "Dansk": "tog",
+        "Engelsk": "train"
+    },
+    {
+        "Dansk": "bus",
+        "Engelsk": "bus"
+    },
+    {
+        "Dansk": "fly",
+        "Engelsk": "plane"
+    },
+    {
+        "Dansk": "skib",
+        "Engelsk": "ship"
+    },
+    {
+        "Dansk": "computer",
+        "Engelsk": "computer"
+    },
+    {
+        "Dansk": "telefon",
+        "Engelsk": "phone"
+    },
+    {
+        "Dansk": "fjernsyn",
+        "Engelsk": "television"
+    },
+    {
+        "Dansk": "radio",
+        "Engelsk": "radio"
+    },
+    {
+        "Dansk": "avis",
+        "Engelsk": "newspaper"
+    },
+    {
+        "Dansk": "blyant",
+        "Engelsk": "pencil"
+    },
+    {
+        "Dansk": "pen",
+        "Engelsk": "pen"
+    },
+    {
+        "Dansk": "papir",
+        "Engelsk": "paper"
+    },
+    {
+        "Dansk": "bogreol",
+        "Engelsk": "bookshelf"
+    },
+    {
+        "Dansk": "skrivebord",
+        "Engelsk": "desk"
+    },
+    {
+        "Dansk": "stol",
+        "Engelsk": "chair"
+    },
+    {
+        "Dansk": "sofa",
+        "Engelsk": "sofa"
+    },
+    {
+        "Dansk": "bord",
+        "Engelsk": "table"
+    },
+    {
+        "Dansk": "køkken",
+        "Engelsk": "kitchen"
+    },
+    {
+        "Dansk": "badeværelse",
+        "Engelsk": "bathroom"
+    },
+    {
+        "Dansk": "soveværelse",
+        "Engelsk": "bedroom"
+    },
+    {
+        "Dansk": "dørklokke",
+        "Engelsk": "doorbell"
+    },
+    {
+        "Dansk": "nøgle",
+        "Engelsk": "key"
+    },
+    {
+        "Dansk": "lomme",
+        "Engelsk": "pocket"
+    },
+    {
+        "Dansk": "briller",
+        "Engelsk": "glasses"
+    },
+    {
+        "Dansk": "ur",
+        "Engelsk": "watch"
+    },
+    {
+        "Dansk": "klokke",
+        "Engelsk": "clock"
+    },
+    {
+        "Dansk": "spejl",
+        "Engelsk": "mirror"
+    },
+    {
+        "Dansk": "billede",
+        "Engelsk": "painting"
+    },
+    {
+        "Dansk": "film",
+        "Engelsk": "film (motion picture)"
+    },
+    {
+        "Dansk": "scene",
+        "Engelsk": "stage"
+    },
+    {
+        "Dansk": "teater",
+        "Engelsk": "theater"
+    },
+    {
+        "Dansk": "skuespiller",
+        "Engelsk": "actor"
+    },
+    {
+        "Dansk": "musiker",
+        "Engelsk": "musician"
+    },
+    {
+        "Dansk": "maler",
+        "Engelsk": "painter"
+    },
+    {
+        "Dansk": "forfatter",
+        "Engelsk": "author"
+    },
+    {
+        "Dansk": "digter",
+        "Engelsk": "poet"
+    },
+    {
+        "Dansk": "journalist",
+        "Engelsk": "journalist"
+    },
+    {
+        "Dansk": "fotograf",
+        "Engelsk": "photographer"
+    },
+    {
+        "Dansk": "direktør",
+        "Engelsk": "director"
+    },
+    {
+        "Dansk": "chef",
+        "Engelsk": "boss"
+    },
+    {
+        "Dansk": "medarbejder",
+        "Engelsk": "employee"
+    },
+    {
+        "Dansk": "kollega",
+        "Engelsk": "colleague"
+    },
+    {
+        "Dansk": "nabo",
+        "Engelsk": "neighbor"
+    },
+    {
+        "Dansk": "ven",
+        "Engelsk": "friend"
+    },
+    {
+        "Dansk": "fjende",
+        "Engelsk": "enemy"
+    },
+    {
+        "Dansk": "kæreste",
+        "Engelsk": "boyfriend/girlfriend"
+    },
+    {
+        "Dansk": "ægtefælle",
+        "Engelsk": "spouse"
+    },
+    {
+        "Dansk": "forælder",
+        "Engelsk": "parent"
+    },
+    {
+        "Dansk": "barn",
+        "Engelsk": "child"
+    },
+    {
+        "Dansk": "søster",
+        "Engelsk": "sister"
+    },
+    {
+        "Dansk": "bror",
+        "Engelsk": "brother"
+    },
+    {
+        "Dansk": "bedsteforælder",
+        "Engelsk": "grandparent"
+    },
+    {
+        "Dansk": "barnebarn",
+        "Engelsk": "grandchild"
+    },
+    {
+        "Dansk": "onkel",
+        "Engelsk": "uncle"
+    },
+    {
+        "Dansk": "tante",
+        "Engelsk": "aunt"
+    },
+    {
+        "Dansk": "fætter",
+        "Engelsk": "cousin (male)"
+    },
+    {
+        "Dansk": "kusine",
+        "Engelsk": "cousin (female)"
+    },
+    {
+        "Dansk": "svigerforælder",
+        "Engelsk": "parent-in-law"
+    },
+    {
+        "Dansk": "svoger",
+        "Engelsk": "brother-in-law"
+    },
+    {
+        "Dansk": "svigerinde",
+        "Engelsk": "sister-in-law"
+    },
+    {
+        "Dansk": "niece",
+        "Engelsk": "niece"
+    },
+    {
+        "Dansk": "nevø",
+        "Engelsk": "nephew"
+    },
+    {
+        "Dansk": "bryllup",
+        "Engelsk": "wedding"
+    },
+    {
+        "Dansk": "fest",
+        "Engelsk": "party"
+    },
+    {
+        "Dansk": "koncert",
+        "Engelsk": "concert"
+    },
+    {
+        "Dansk": "festival",
+        "Engelsk": "festival"
+    },
+    {
+        "Dansk": "ferie",
+        "Engelsk": "holiday"
+    },
+    {
+        "Dansk": "jul",
+        "Engelsk": "Christmas"
+    },
+    {
+        "Dansk": "påske",
+        "Engelsk": "Easter"
+    },
+    {
+        "Dansk": "fødselsdag",
+        "Engelsk": "birthday"
+    }
+]
