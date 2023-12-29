@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Specialized;
 using System.ComponentModel;
+using System.IO.Pipes;
 
 public class Engine {
 
@@ -8,22 +9,32 @@ public class Engine {
 
     public Engine(){
 
+    }
+
+    public async Task Run()
+    {
         //First, prompt user for desired category and direction
-        string UserChoice = Introduction();
-        string Direction = GetDirection();
+        string UserChoice = GetCategory();
+        SupportedDirections Direction = GetDirection();
 
         //Generate list to prompt according to 2 previous elements
-        List<Word> WordList = GenerateWordList(UserChoice, Direction);
+        List<Word> WordList = await GenerateWordList(UserChoice);
+
+        Questions Game = new(WordList, Direction);
+        Game.StartGame();
 
         Console.ReadLine();
     }
 
-    private List<Word> GenerateWordList(string UserChoice, string Direction)
+    private async Task<List<Word>> GenerateWordList(string UserChoice)
     {
-        return new List<Word>();
+        WordsFormatting WordFormat = new();
+
+        List<Word> WordList = await WordFormat.GetWordList(UserChoice);
+        return WordList;
     }
 
-    private string GetDirection()
+    private SupportedDirections GetDirection()
     {
         string Direction = Validator.ValidateDirectionChoice();
 
@@ -34,22 +45,23 @@ public class Engine {
         Thread.Sleep(2000);
         Console.Clear();
 
-        return Direction;
+        Enum.TryParse(Direction, out SupportedDirections EnumDirection);
+
+        return EnumDirection;
     }
 
-    private string Introduction()
+    private string GetCategory()
     {
-        int UserChoice = Validator.ValidateCategoryChoice();
+        string UserChoice = Validator.ValidateCategoryChoice();
 
         Console.Clear();
-        string ChosenCategory = Enum.GetName(typeof(SupportedWordCategories), UserChoice);
-        string SelectConfirmation = $"You have chosen {ChosenCategory}.";
+        string SelectConfirmation = $"You have chosen {UserChoice}.";
 
         Console.WriteLine(SelectConfirmation);
         Thread.Sleep(2000);
         Console.Clear();
 
-        return ChosenCategory;
+        return UserChoice;
     }
 
     public static void WriteIntroduction()

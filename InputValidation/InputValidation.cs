@@ -3,10 +3,10 @@ public class InputValidation
     public InputValidation(){
     }
 
-    public int ValidateCategoryChoice()
+    public string ValidateCategoryChoice()
     {
         bool ValidInput = false;
-        int UserChoice = 0;
+        string UserChoice = "";
 
         do
         {
@@ -18,7 +18,7 @@ public class InputValidation
                 Console.Clear();
             }
             else{
-                UserChoice = OutUserChoice;
+                UserChoice = Enum.GetName(typeof(SupportedWordCategories), OutUserChoice);
             }
         } while(!ValidInput);
 
