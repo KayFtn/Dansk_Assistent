@@ -45,6 +45,7 @@ public class Questions
         Console.Clear();
         AddStarLine();
         Console.WriteLine($"Turn {Turn}");
+        Console.WriteLine($"Here are Danish characters for you to copy paste:    å    ø    æ");
         AddStarLine();
     }
 

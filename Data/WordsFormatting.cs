@@ -36,8 +36,10 @@ public class WordsFormatting
 
     private async Task<JArray> GetFileContent(string Category)
     {
-        string projectDirectory = Environment.CurrentDirectory;
+        string DebugDir = AppDomain.CurrentDomain.BaseDirectory;
+        string projectDirectory = Directory.GetParent(DebugDir).Parent.Parent.Parent.FullName;
         string Path = $"{projectDirectory}/Data/{Category}/{Category}.json";
+
 
         string FileContent = "";
 
