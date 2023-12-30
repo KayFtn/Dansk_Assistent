@@ -17,6 +17,8 @@ public class Questions
 
         for(int i = 0; i < WordList.Count; i++)
         {
+            Console.Clear();
+
             Word CurrentWord = WordList[i];
             string CorrectAnswer = "";
 
@@ -36,9 +38,34 @@ public class Questions
             AddStarLine();
 
             //now need to validate input and display result prompt
-            Console.ReadLine();
+            string Answer = Console.ReadLine();
+            string QuestionWord = (Direction == SupportedDirections.English_To_Danish) ? CurrentWord.Engelsk : CurrentWord.Dansk;
+
+            if (Answer.ToLower() == CorrectAnswer.ToLower())
+                RightAnswerResult(CorrectAnswer, QuestionWord, Answer);
+            else
+                WrongAnswerResult(CorrectAnswer, QuestionWord, Answer);
+                
+
         }
+            //Need to handle end of list behavior 
     } 
+
+    private void RightAnswerResult(string CorrectAnswer, string QuestionWord, string Answer)
+    {
+        Console.Clear();
+        Console.WriteLine($"Correct! You Answered: '{Answer}'\nThe answer for '{QuestionWord}' was indeed: '{CorrectAnswer}'");
+        Console.WriteLine("Hit enter for the next prompt.");
+        Console.ReadLine();
+    }
+
+       private void WrongAnswerResult(string CorrectAnswer, string QuestionWord, string Answer)
+    {
+        Console.Clear();
+        Console.WriteLine($"Wrong! You Answered: '{Answer}'\nThe correct answer for '{QuestionWord}' was: '{CorrectAnswer}'");
+        Console.WriteLine("Hit enter for the next prompt.");
+        Console.ReadLine();
+    }
 
     private void PrepareConsole(int Turn)
     {
