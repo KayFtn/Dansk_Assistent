@@ -1,56 +1,260 @@
 [
-    {"Dansk": "at være", "Engelsk": "to be"},
-    {"Dansk": "at have", "Engelsk": "to have"},
-    {"Dansk": "at gøre", "Engelsk": "to do"},
-    {"Dansk": "at sige", "Engelsk": "to say"},
-    {"Dansk": "kunne", "Engelsk": "can"},
-    {"Dansk": "ville", "Engelsk": "will"},
-    {"Dansk": "at komme", "Engelsk": "to come"},
-    {"Dansk": "at se", "Engelsk": "to see"},
-    {"Dansk": "at tage", "Engelsk": "to take"},
-    {"Dansk": "at give", "Engelsk": "to give"},
-    {"Dansk": "at finde", "Engelsk": "to find"},
-    {"Dansk": "at tænke", "Engelsk": "to think (The action)"},
-    {"Dansk": "at skulle", "Engelsk": "should"},
-    {"Dansk": "at synes", "Engelsk": "to think (opinion)"},
-    {"Dansk": "at lave", "Engelsk": "to make"},
-    {"Dansk": "at vide", "Engelsk": "to know (information)"},
-    {"Dansk": "at tror", "Engelsk": "to think (Not sure)"},
-    {"Dansk": "at synes", "Engelsk": "to think (Opinion)"},
-    {"Dansk": "at mener", "Engelsk": "to think (Convinced, proven fact)"},
-    {"Dansk": "at komme", "Engelsk": "to come"},
-    {"Dansk": "at arbejde", "Engelsk": "to work"},
-    {"Dansk": "at bede", "Engelsk": "to ask"},
-    {"Dansk": "at gå", "Engelsk": "to go"},
-    {"Dansk": "at stå", "Engelsk": "to stand"},
-    {"Dansk": "at betyde", "Engelsk": "to mean"},
-    {"Dansk": "at bringe", "Engelsk": "to bring"},
-    {"Dansk": "at spørge", "Engelsk": "to ask"},
-    {"Dansk": "at leve", "Engelsk": "to live"},
-    {"Dansk": "at blive", "Engelsk": "to become"},
-    {"Dansk": "at lade", "Engelsk": "to let"},
-    {"Dansk": "at sidde", "Engelsk": "to sit"},
-    {"Dansk": "at forstå", "Engelsk": "to understand"},
-    {"Dansk": "at føle", "Engelsk": "to feel"},
-    {"Dansk": "at bruge", "Engelsk": "to use"},
-    {"Dansk": "at høre", "Engelsk": "to hear"},
-    {"Dansk": "at tale", "Engelsk": "to speak"},
-    {"Dansk": "at læse", "Engelsk": "to read"},
-    {"Dansk": "at købe", "Engelsk": "to buy"},
-    {"Dansk": "vil", "Engelsk": "to want"},
-    {"Dansk": "at spise", "Engelsk": "to eat"},
-    {"Dansk": "at sove", "Engelsk": "to sleep"},
-    {"Dansk": "at spille", "Engelsk": "to play"},
-    {"Dansk": "at skrive", "Engelsk": "to write"},
-    {"Dansk": "at lære", "Engelsk": "to learn"},
-    {"Dansk": "at åbne", "Engelsk": "to open"},
-    {"Dansk": "at lukke", "Engelsk": "to close"},
-    {"Dansk": "at ønske", "Engelsk": "to wish"},
-    {"Dansk": "at møde", "Engelsk": "to meet"},
-    {"Dansk": "at forlade", "Engelsk": "to leave"},
-    {"Dansk": "at sende", "Engelsk": "to send"},
-    {"Dansk": "at vise", "Engelsk": "to show"},
-    {"Dansk": "at stille", "Engelsk": "to ask (a question)"},
-    {"Dansk": "at modtage", "Engelsk": "to receive"}
-  ]
-  
+    {
+        "Dansk": "at være",
+        "Engelsk": "to be",
+        "Vink": "Jeg er træt",
+        "Details": ""
+    },
+    {
+        "Dansk": "at have",
+        "Engelsk": "to have",
+        "Vink": "Jeg har en bil",
+        "Details": ""
+    },
+    {
+        "Dansk": "at gøre",
+        "Engelsk": "to do",
+        "Vink": "Hun gør sit arbejde",
+        "Details": ""
+    },
+    {
+        "Dansk": "at sige",
+        "Engelsk": "to say",
+        "Vink": "Han siger sandheden",
+        "Details": ""
+    },
+    {
+        "Dansk": "at kunne",
+        "Engelsk": "can",
+        "Vink": "Jeg kan svømme",
+        "Details": ""
+    },
+    {
+        "Dansk": "ville",
+        "Engelsk": "will",
+        "Vink": "Vi vil besøge familien",
+        "Details": ""
+    },
+    {
+        "Dansk": "at komme",
+        "Engelsk": "to come",
+        "Vink": "De kommer til festen",
+        "Details": ""
+    },
+    {
+        "Dansk": "at se",
+        "Engelsk": "to see",
+        "Vink": "Jeg ser filmen",
+        "Details": ""
+    },
+    {
+        "Dansk": "at tage",
+        "Engelsk": "to take",
+        "Vink": "Han tager bogen",
+        "Details": ""
+    },
+    {
+        "Dansk": "at give",
+        "Engelsk": "to give",
+        "Vink": "Hun giver en gave",
+        "Details": ""
+    },
+    {
+        "Dansk": "at finde",
+        "Engelsk": "to find",
+        "Vink": "Vi finder nøglerne",
+        "Details": ""
+    },
+    {
+        "Dansk": "at tænke",
+        "Engelsk": "to think",
+        "Vink": "Jeg tænker på fremtiden",
+        "Details": "The action of thinking"
+    },
+    {
+        "Dansk": "at skulle",
+        "Engelsk": "should",
+        "Vink": "Du skal læse bogen",
+        "Details": ""
+    },
+    {
+        "Dansk": "at lave",
+        "Engelsk": "to make",
+        "Vink": "Vi laver mad sammen",
+        "Details": ""
+    },
+    {
+        "Dansk": "at vide",
+        "Engelsk": "to know",
+        "Vink": "Han ved svaret",
+        "Details": "To know information"
+    },
+    {
+        "Dansk": "at tror",
+        "Engelsk": "to think",
+        "Vink": "Jeg tror det regner",
+        "Details": "You think, but arent sure."
+    },
+    {
+        "Dansk": "at synes",
+        "Engelsk": "to think",
+        "Vink": "Hun synes filmen er fantastisk",
+        "Details": "If it is an opinion, and not a proven fact"
+    },
+    {
+        "Dansk": "at mener",
+        "Engelsk": "to think",
+        "Vink": "Han mener det er sandt",
+        "Details": "Convinced, it is a proven fact"
+    },
+    {
+        "Dansk": "at komme",
+        "Engelsk": "to come",
+        "Vink": "Vi kommer fra skole",
+        "Details": ""
+    },
+    {
+        "Dansk": "at arbejde",
+        "Engelsk": "to work",
+        "Vink": "Jeg arbejder på kontoret",
+        "Details": ""
+    },
+    {
+        "Dansk": "at bede",
+        "Engelsk": "to ask",
+        "Vink": "Hun beder om hjælp",
+        "Details": ""
+    },
+    {
+        "Dansk": "at sidde",
+        "Engelsk": "to sit",
+        "Vink": "Han sidder på stolen",
+        "Details": ""
+    },
+    {
+        "Dansk": "at forstå",
+        "Engelsk": "to understand",
+        "Vink": "Vi forstår hinanden",
+        "Details": ""
+    },
+    {
+        "Dansk": "at føle",
+        "Engelsk": "to feel",
+        "Vink": "Jeg føler mig glad",
+        "Details": ""
+    },
+    {
+        "Dansk": "at bruge",
+        "Engelsk": "to use",
+        "Vink": "Vi bruger computeren",
+        "Details": ""
+    },
+    {
+        "Dansk": "at høre",
+        "Engelsk": "to hear",
+        "Vink": "Hun hører musikken",
+        "Details": ""
+    },
+    {
+        "Dansk": "at tale",
+        "Engelsk": "to speak",
+        "Vink": "De taler engelsk",
+        "Details": ""
+    },
+    {
+        "Dansk": "at læse",
+        "Engelsk": "to read",
+        "Vink": "Jeg læser bogen",
+        "Details": ""
+    },
+    {
+        "Dansk": "at købe",
+        "Engelsk": "to buy",
+        "Vink": "Vi køber en gave",
+        "Details": ""
+    },
+    {
+        "Dansk": "at spise",
+        "Engelsk": "to eat",
+        "Vink": "Vi spiser middag",
+        "Details": ""
+    },
+    {
+        "Dansk": "at sove",
+        "Engelsk": "to sleep",
+        "Vink": "Jeg sover otte timer",
+        "Details": ""
+    },
+    {
+        "Dansk": "at spille",
+        "Engelsk": "to play",
+        "Vink": "Børnene spiller bold",
+        "Details": ""
+    },
+    {
+        "Dansk": "at skrive",
+        "Engelsk": "to write",
+        "Vink": "Jeg skriver en bog",
+        "Details": ""
+    },
+    {
+        "Dansk": "at lære",
+        "Engelsk": "to learn",
+        "Vink": "Han lærer dansk",
+        "Details": ""
+    },
+    {
+        "Dansk": "at åbne",
+        "Engelsk": "to open",
+        "Vink": "Du åbner døren",
+        "Details": ""
+    },
+    {
+        "Dansk": "at lukke",
+        "Engelsk": "to close",
+        "Vink": "Vi lukker vinduet",
+        "Details": ""
+    },
+    {
+        "Dansk": "at ønske",
+        "Engelsk": "to wish",
+        "Vink": "Hun ønsker sig en gave",
+        "Details": ""
+    },
+    {
+        "Dansk": "at møde",
+        "Engelsk": "to meet",
+        "Vink": "Vi mødes i parken",
+        "Details": ""
+    },
+    {
+        "Dansk": "at forlade",
+        "Engelsk": "to leave",
+        "Vink": "Han forlader festen",
+        "Details": ""
+    },
+    {
+        "Dansk": "at sende",
+        "Engelsk": "to send",
+        "Vink": "Jeg sender en besked",
+        "Details": ""
+    },
+    {
+        "Dansk": "at vise",
+        "Engelsk": "to show",
+        "Vink": "Han viser vej",
+        "Details": ""
+    },
+    {
+        "Dansk": "at stille",
+        "Engelsk": "to ask",
+        "Vink": "Hun stiller et spørgsmål",
+        "Details": "a question"
+    },
+    {
+        "Dansk": "at modtage",
+        "Engelsk": "to receive",
+        "Vink": "Vi modtager gaver",
+        "Details": ""
+    }
+]

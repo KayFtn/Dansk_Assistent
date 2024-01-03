@@ -1,402 +1,102 @@
 [
-    {
-        "Dansk": "god",
-        "Engelsk": "good"
-    },
-    {
-        "Dansk": "ny",
-        "Engelsk": "new"
-    },
-    {
-        "Dansk": "gammel",
-        "Engelsk": "old"
-    },
-    {
-        "Dansk": "stor",
-        "Engelsk": "big"
-    },
-    {
-        "Dansk": "lille",
-        "Engelsk": "small"
-    },
-    {
-        "Dansk": "ung",
-        "Engelsk": "young"
-    },
-    {
-        "Dansk": "dansk",
-        "Engelsk": "Danish"
-    },
-    {
-        "Dansk": "nem",
-        "Engelsk": "easy"
-    },
-    {
-        "Dansk": "anden",
-        "Engelsk": "other"
-    },
-    {
-        "Dansk": "sidste",
-        "Engelsk": "last"
-    },
-    {
-        "Dansk": "lang",
-        "Engelsk": "long"
-    },
-    {
-        "Dansk": "høj",
-        "Engelsk": "high"
-    },
-    {
-        "Dansk": "forskellig",
-        "Engelsk": "different"
-    },
-    {
-        "Dansk": "vigtig",
-        "Engelsk": "important"
-    },
-    {
-        "Dansk": "fri",
-        "Engelsk": "free"
-    },
-    {
-        "Dansk": "tidligere",
-        "Engelsk": "former"
-    },
-    {
-        "Dansk": "egen",
-        "Engelsk": "own"
-    },
-    {
-        "Dansk": "klar",
-        "Engelsk": "clear"
-    },
-    {
-        "Dansk": "rigtig",
-        "Engelsk": "real"
-    },
-    {
-        "Dansk": "eneste",
-        "Engelsk": "only"
-    },
-    {
-        "Dansk": "hurtig",
-        "Engelsk": "fast"
-    },
-    {
-        "Dansk": "offentlig",
-        "Engelsk": "public"
-    },
-    {
-        "Dansk": "almindelig",
-        "Engelsk": "common"
-    },
-    {
-        "Dansk": "flot",
-        "Engelsk": "handsome"
-    },
-    {
-        "Dansk": "flere",
-        "Engelsk": "more"
-    },
-    {
-        "Dansk": "bedste",
-        "Engelsk": "best"
-    },
-    {
-        "Dansk": "sort",
-        "Engelsk": "black"
-    },
-    {
-        "Dansk": "fuld",
-        "Engelsk": "full"
-    },
-    {
-        "Dansk": "kold",
-        "Engelsk": "cold"
-    },
-    {
-        "Dansk": "ren",
-        "Engelsk": "clean"
-    },
-    {
-        "Dansk": "lav",
-        "Engelsk": "low"
-    },
-    {
-        "Dansk": "stærk",
-        "Engelsk": "strong"
-    },
-    {
-        "Dansk": "billig",
-        "Engelsk": "cheap"
-    },
-    {
-        "Dansk": "sund",
-        "Engelsk": "healthy"
-    },
-    {
-        "Dansk": "svær",
-        "Engelsk": "difficult"
-    },
-    {
-        "Dansk": "blå",
-        "Engelsk": "blue"
-    },
-    {
-        "Dansk": "hvid",
-        "Engelsk": "white"
-    },
-    {
-        "Dansk": "varm",
-        "Engelsk": "warm"
-    },
-    {
-        "Dansk": "glad",
-        "Engelsk": "happy"
-    },
-    {
-        "Dansk": "grøn",
-        "Engelsk": "green"
-    },
-    {
-        "Dansk": "rød",
-        "Engelsk": "red"
-    },
-    {
-        "Dansk": "sen",
-        "Engelsk": "late"
-    },
-    {
-        "Dansk": "rig",
-        "Engelsk": "rich"
-    },
-    {
-        "Dansk": "sjov",
-        "Engelsk": "funny"
-    },
-    {
-        "Dansk": "tom",
-        "Engelsk": "empty"
-    },
-    {
-        "Dansk": "dyb",
-        "Engelsk": "deep"
-    },
-    {
-        "Dansk": "bred",
-        "Engelsk": "wide"
-    },
-    {
-        "Dansk": "stolt",
-        "Engelsk": "proud"
-    },
-    {
-        "Dansk": "hård",
-        "Engelsk": "hard"
-    },
-    {
-        "Dansk": "skarp",
-        "Engelsk": "sharp"
-    },
-    {
-        "Dansk": "våd",
-        "Engelsk": "wet"
-    },
-    {
-        "Dansk": "tyk",
-        "Engelsk": "thick"
-    },
-    {
-        "Dansk": "tør",
-        "Engelsk": "dry"
-    },
-    {
-        "Dansk": "sikker",
-        "Engelsk": "safe"
-    },
-    {
-        "Dansk": "øverste",
-        "Engelsk": "top"
-    },
-    {
-        "Dansk": "uheldig",
-        "Engelsk": "unlucky"
-    },
-    {
-        "Dansk": "smuk",
-        "Engelsk": "beautiful"
-    },
-    {
-        "Dansk": "fattig",
-        "Engelsk": "poor"
-    },
-    {
-        "Dansk": "lykkelig",
-        "Engelsk": "happy"
-    },
-    {
-        "Dansk": "kedelig",
-        "Engelsk": "boring"
-    },
-    {
-        "Dansk": "stram",
-        "Engelsk": "tight"
-    },
-    {
-        "Dansk": "levende",
-        "Engelsk": "alive"
-    },
-    {
-        "Dansk": "skøn",
-        "Engelsk": "beautiful"
-    },
-    {
-        "Dansk": "højre",
-        "Engelsk": "right"
-    },
-    {
-        "Dansk": "skør",
-        "Engelsk": "crazy"
-    },
-    {
-        "Dansk": "venstre",
-        "Engelsk": "left"
-    },
-    {
-        "Dansk": "grim",
-        "Engelsk": "ugly"
-    },
-    {
-        "Dansk": "vild",
-        "Engelsk": "wild"
-    },
-    {
-        "Dansk": "blød",
-        "Engelsk": "soft"
-    },
-    {
-        "Dansk": "længe",
-        "Engelsk": "long"
-    },
-    {
-        "Dansk": "grov",
-        "Engelsk": "rough"
-    },
-    {
-        "Dansk": "lukket",
-        "Engelsk": "closed"
-    },
-    {
-        "Dansk": "ødelagt",
-        "Engelsk": "broken"
-    },
-    {
-        "Dansk": "sulten",
-        "Engelsk": "hungry"
-    },
-    {
-        "Dansk": "blank",
-        "Engelsk": "blank"
-    },
-    {
-        "Dansk": "klog",
-        "Engelsk": "wise"
-    },
-    {
-        "Dansk": "gennemsnitlig",
-        "Engelsk": "average"
-    },
-    {
-        "Dansk": "åben",
-        "Engelsk": "open"
-    },
-    {
-        "Dansk": "sær",
-        "Engelsk": "odd"
-    },
-    {
-        "Dansk": "heldig",
-        "Engelsk": "lucky"
-    },
-    {
-        "Dansk": "højlydt",
-        "Engelsk": "loud"
-    },
-    {
-        "Dansk": "fremmed",
-        "Engelsk": "strange"
-    },
-    {
-        "Dansk": "rund",
-        "Engelsk": "round"
-    },
-    {
-        "Dansk": "gammeldags",
-        "Engelsk": "old-fashioned"
-    },
-    {
-        "Dansk": "følgende",
-        "Engelsk": "following"
-    },
-    {
-        "Dansk": "nervøs",
-        "Engelsk": "nervous"
-    },
-    {
-        "Dansk": "mørk",
-        "Engelsk": "dark"
-    },
-    {
-        "Dansk": "træt",
-        "Engelsk": "tired"
-    },
-    {
-        "Dansk": "behagelig",
-        "Engelsk": "comfortable"
-    },
-    {
-        "Dansk": "øm",
-        "Engelsk": "tender"
-    },
-    {
-        "Dansk": "lys",
-        "Engelsk": "light"
-    },
-    {
-        "Dansk": "stille",
-        "Engelsk": "quiet"
-    },
-    {
-        "Dansk": "moderne",
-        "Engelsk": "modern"
-    },
-    {
-        "Dansk": "doven",
-        "Engelsk": "lazy"
-    },
-    {
-        "Dansk": "usynlig",
-        "Engelsk": "invisible"
-    },
-    {
-        "Dansk": "spændende",
-        "Engelsk": "exciting"
-    },
-    {
-        "Dansk": "usædvanlig",
-        "Engelsk": "unusual"
-    },
-    {
-        "Dansk": "rolig",
-        "Engelsk": "calm"
-    },
-    {
-        "Dansk": "aktiv",
-        "Engelsk": "active"
-    },
-    {
-        "Dansk": "farverig",
-        "Engelsk": "colorful"
-    }
+    {"Dansk": "god|godt", "Engelsk": "good", "Vink": "Det er en god dag"},
+    {"Dansk": "ny", "Engelsk": "new", "Vink": "Jeg har en ny bil"},
+    {"Dansk": "gammel", "Engelsk": "old", "Vink": "Huset er gammelt"},
+    {"Dansk": "stor", "Engelsk": "big", "Vink": "Elefanten er stor"},
+    {"Dansk": "lille", "Engelsk": "small", "Vink": "Hunden er lille"},
+    {"Dansk": "ung", "Engelsk": "young", "Vink": "Han er ung"},
+    {"Dansk": "dansk", "Engelsk": "Danish", "Vink": "Jeg taler dansk"},
+    {"Dansk": "nem", "Engelsk": "easy", "Vink": "Det er nemt"},
+    {"Dansk": "anden", "Engelsk": "other", "Vink": "Han er på den anden side"},
+    {"Dansk": "sidste", "Engelsk": "last", "Vink": "Det er den sidste chance"},
+    {"Dansk": "lang", "Engelsk": "long", "Vink": "Vejen er lang"},
+    {"Dansk": "høj", "Engelsk": "high", "Vink": "Bjerget er højt"},
+    {"Dansk": "forskellig", "Engelsk": "different", "Vink": "De har forskellige meninger"},
+    {"Dansk": "vigtig", "Engelsk": "important", "Vink": "Dette er vigtigt"},
+    {"Dansk": "fri", "Engelsk": "free", "Vink": "Jeg er fri i weekenden"},
+    {"Dansk": "tidligere", "Engelsk": "former", "Vink": "Han var tidligere præsident"},
+    {"Dansk": "egen", "Engelsk": "own", "Vink": "Jeg har min egen bil"},
+    {"Dansk": "klar", "Engelsk": "clear", "Vink": "Det er ikke klart"},
+    {"Dansk": "rigtig", "Engelsk": "real", "Vink": "Det er rigtigt"},
+    {"Dansk": "eneste", "Engelsk": "only", "Vink": "Det er den eneste løsning"},
+    {"Dansk": "hurtig", "Engelsk": "fast", "Vink": "Bilen er hurtig"},
+    {"Dansk": "offentlig", "Engelsk": "public", "Vink": "Det er en offentlig park"},
+    {"Dansk": "almindelig", "Engelsk": "common", "Vink": "Det er en almindelig begivenhed"},
+    {"Dansk": "flot", "Engelsk": "handsome", "Vink": "Han er en flot mand"},
+    {"Dansk": "flere", "Engelsk": "more", "Vink": "Vi vil have flere oplysninger"},
+    {"Dansk": "bedste", "Engelsk": "best", "Vink": "Det er den bedste film"},
+    {"Dansk": "sort", "Engelsk": "black", "Vink": "Jeg har en sort jakke"},
+    {"Dansk": "fuld", "Engelsk": "full", "Vink": "Glasset er fuldt"},
+    {"Dansk": "kold", "Engelsk": "cold", "Vink": "Drikken er kold"},
+    {"Dansk": "ren", "Engelsk": "clean", "Vink": "Værelset er rent"},
+    {"Dansk": "lav", "Engelsk": "low", "Vink": "Prisen er lav"},
+    {"Dansk": "stærk", "Engelsk": "strong", "Vink": "Hun er stærk"},
+    {"Dansk": "billig", "Engelsk": "cheap", "Vink": "Det er billigere"},
+    {"Dansk": "sund", "Engelsk": "healthy", "Vink": "Frugten er sund"},
+    {"Dansk": "svær", "Engelsk": "difficult", "Vink": "Opgaven er svær"},
+    {"Dansk": "blå", "Engelsk": "blue", "Vink": "Himlen er blå"},
+    {"Dansk": "hvid", "Engelsk": "white", "Vink": "Sneen er hvid"},
+    {"Dansk": "varm", "Engelsk": "warm", "Vink": "Suppen er varm"},
+    {"Dansk": "glad", "Engelsk": "happy", "Vink": "Han er glad i dag"},
+    {"Dansk": "grøn", "Engelsk": "green", "Vink": "Græsset er grønt"},
+    {"Dansk": "rød", "Engelsk": "red", "Vink": "Blomsten er rød"},
+    {"Dansk": "sen", "Engelsk": "late", "Vink": "Vi kommer sent"},
+    {"Dansk": "rig", "Engelsk": "rich", "Vink": "Han er rig"},
+    {"Dansk": "sjov", "Engelsk": "funny", "Vink": "Historien er sjov"},
+    {"Dansk": "tom", "Engelsk": "empty", "Vink": "Flasken er tom"},
+    {"Dansk": "dyb", "Engelsk": "deep", "Vink": "Havet er dybt"},
+    {"Dansk": "bred", "Engelsk": "wide", "Vink": "Vejen er bred"},
+    {"Dansk": "stolt", "Engelsk": "proud", "Vink": "Hun er stolt af sit arbejde"},
+    {"Dansk": "hård", "Engelsk": "hard", "Vink": "Træningen er hård"},
+    {"Dansk": "skarp", "Engelsk": "sharp", "Vink": "Kniven er skarp"},
+    {"Dansk": "våd", "Engelsk": "wet", "Vink": "Tøjet er vådt"},
+    {"Dansk": "tyk", "Engelsk": "thick", "Vink": "Bogen er tyk"},
+    {"Dansk": "tør", "Engelsk": "dry", "Vink": "Jorden er tør"},
+    {"Dansk": "sikker", "Engelsk": "safe", "Vink": "Stedet er sikkert"},
+    {"Dansk": "øverste", "Engelsk": "top", "Vink": "Det er på øverste hylde"},
+    {"Dansk": "uheldig", "Engelsk": "unlucky", "Vink": "Det var uheldig"},
+    {"Dansk": "smuk", "Engelsk": "beautiful", "Vink": "Naturen er smuk"},
+    {"Dansk": "fattig", "Engelsk": "poor", "Vink": "Familien er fattig"},
+    {"Dansk": "lykkelig", "Engelsk": "happy", "Vink": "Hun er lykkelig"},
+    {"Dansk": "kedelig", "Engelsk": "boring", "Vink": "Filmen er kedelig"},
+    {"Dansk": "stram", "Engelsk": "tight", "Vink": "Bæltet er stramt"},
+    {"Dansk": "levende", "Engelsk": "alive", "Vink": "Dyret er levende"},
+    {"Dansk": "skøn", "Engelsk": "beautiful", "Vink": "Udsigten er skøn"},
+    {"Dansk": "højre", "Engelsk": "right", "Vink": "Sving til højre"},
+    {"Dansk": "skør", "Engelsk": "crazy", "Vink": "Han er skør"},
+    {"Dansk": "venstre", "Engelsk": "left", "Vink": "Drej til venstre"},
+    {"Dansk": "grim", "Engelsk": "ugly", "Vink": "Maleriet er grimt"},
+    {"Dansk": "vild", "Engelsk": "wild", "Vink": "Naturen er vild"},
+    {"Dansk": "blød", "Engelsk": "soft", "Vink": "Puden er blød"},
+    {"Dansk": "længe", "Engelsk": "long", "Vink": "Vejen er længe"},
+    {"Dansk": "grov", "Engelsk": "rough", "Vink": "Overfladen er grov"},
+    {"Dansk": "lukket", "Engelsk": "closed", "Vink": "Døren er lukket"},
+    {"Dansk": "ødelagt", "Engelsk": "broken", "Vink": "Lampen er ødelagt"},
+    {"Dansk": "sulten", "Engelsk": "hungry", "Vink": "Jeg er sulten"},
+    {"Dansk": "blank", "Engelsk": "blank", "Vink": "Siden er blank"},
+    {"Dansk": "klog", "Engelsk": "wise", "Vink": "Han er klog"},
+    {"Dansk": "gennemsnitlig", "Engelsk": "average", "Vink": "Resultatet er gennemsnitligt"},
+    {"Dansk": "åben", "Engelsk": "open", "Vink": "Døren er åben (The door is open)"},
+    {"Dansk": "sær", "Engelsk": "odd", "Vink": "Hun har en sær vane"},
+    {"Dansk": "heldig", "Engelsk": "lucky", "Vink": "Han føler sig heldig i dag"},
+    {"Dansk": "højlydt", "Engelsk": "loud", "Vink": "Musikken er alt for højlydt"},
+    {"Dansk": "fremmed", "Engelsk": "strange", "Vink": "Det er en fremmed by for mig"},
+    {"Dansk": "rund", "Engelsk": "round", "Vink": "Bordet er rundt"},
+    {"Dansk": "gammeldags", "Engelsk": "old-fashioned", "Vink": "Hun kan lide gammeldags tøj"},
+    {"Dansk": "følgende", "Engelsk": "following", "Vink": "Læs de følgende instruktioner nøje"},
+    {"Dansk": "nervøs", "Engelsk": "nervous", "Vink": "Han er altid nervøs før eksamen"},
+    {"Dansk": "mørk", "Engelsk": "dark", "Vink": "Rummet er meget mørkt om natten"},
+    {"Dansk": "træt", "Engelsk": "tired", "Vink": "Jeg er træt efter en lang dag"},
+    {"Dansk": "behagelig", "Engelsk": "comfortable", "Vink": "Sofaen er meget behagelig"},
+    {"Dansk": "øm", "Engelsk": "tender", "Vink": "Min arm er øm efter træning"},
+    {"Dansk": "lys", "Engelsk": "light", "Vink": "Rummet er lyst og indbydende"},
+    {"Dansk": "stille", "Engelsk": "quiet", "Vink": "Det er meget stille om natten"},
+    {"Dansk": "moderne", "Engelsk": "modern", "Vink": "Bygningen har et moderne design"},
+    {"Dansk": "doven", "Engelsk": "lazy", "Vink": "Han er alt for doven til at gøre noget"},
+    {"Dansk": "usynlig", "Engelsk": "invisible", "Vink": "Spøgelset er usynligt for mennesker"},
+    {"Dansk": "spændende", "Engelsk": "exciting", "Vink": "Filmen er meget spændende"},
+    {"Dansk": "usædvanlig", "Engelsk": "unusual", "Vink": "Det er en usædvanlig begivenhed"},
+    {"Dansk": "rolig", "Engelsk": "calm", "Vink": "Havet er roligt i dag"},
+    {"Dansk": "aktiv", "Engelsk": "active", "Vink": "Hun er meget aktiv i sport"},
+    {"Dansk": "farverig", "Engelsk": "colorful", "Vink": "Billedet er meget farverigt"}
 ]

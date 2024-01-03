@@ -20,36 +20,83 @@ public class Questions
             Console.Clear();
 
             Word CurrentWord = WordList[i];
-            string CorrectAnswer = "";
 
             PrepareConsole(i + 1);
-
-            switch(Direction){
-                case SupportedDirections.English_To_Danish:
-                Console.WriteLine($"Translate the following word to Danish:\n{CurrentWord.Engelsk}");
-                CorrectAnswer = CurrentWord.Dansk;
-                break;
-
-                case SupportedDirections.Danish_To_English:
-                Console.WriteLine($"Translate the following word to English:\n{CurrentWord.Dansk}");
-                CorrectAnswer = CurrentWord.Engelsk;
-                break;
-            }
-            AddStarLine();
-
-            //now need to validate input and display result prompt
+            string CorrectAnswer = AskQuestion(CurrentWord);
             string Answer = Console.ReadLine();
-            string QuestionWord = (Direction == SupportedDirections.English_To_Danish) ? CurrentWord.Engelsk : CurrentWord.Dansk;
+
+            Answer = CheckForHint(CurrentWord, Answer);
+
+            string PromptWord = (Direction == SupportedDirections.English_To_Danish) ? CurrentWord.Engelsk : CurrentWord.Dansk;
 
             if (Answer.ToLower() == CorrectAnswer.ToLower())
-                RightAnswerResult(CorrectAnswer, QuestionWord, Answer);
+                RightAnswerResult(CorrectAnswer, PromptWord, Answer);
             else
-                WrongAnswerResult(CorrectAnswer, QuestionWord, Answer);
+                WrongAnswerResult(CorrectAnswer, PromptWord, Answer);
                 
-
         }
-            //Need to handle end of list behavior 
+
+        EndGame();
     } 
+
+    private void EndGame(){
+        Console.Clear();
+        AddStarLine();
+        Console.WriteLine("Our list of verbs is over! Good work, and don't give up :)");
+        AddStarLine();
+    }
+
+    private string CheckForHint(Word CurrentWord, string Answer)
+    {
+        //If user asks for a hint, display it and catch the new answer
+        if (Direction == SupportedDirections.Danish_To_English && Answer.ToLower() == "vink"){
+            DisplayHint(CurrentWord, Direction);
+
+            Answer = Console.ReadLine();
+        }
+        else if (Direction == SupportedDirections.English_To_Danish && Answer.ToLower() == "vink"){
+            Console.WriteLine("You cannot ask for a Hint while getting English to Danish prompts. Enter your Answer below:");
+            Answer = Console.ReadLine();
+        }
+
+        return Answer;
+    }
+
+    private string AskQuestion(Word CurrentWord)
+    {
+        string CorrectAnswer = "";
+        switch(Direction){
+            case SupportedDirections.English_To_Danish:
+            Console.WriteLine($"Translate the following word to Danish:\n{CurrentWord.Engelsk}   {CurrentWord.Details}");
+            CorrectAnswer = CurrentWord.Dansk;
+            break;
+
+            case SupportedDirections.Danish_To_English:
+            Console.WriteLine($"Translate the following word to English:\n{CurrentWord.Dansk}");
+            if (!string.IsNullOrEmpty(CurrentWord.Details)) Console.WriteLine($"Details: {CurrentWord.Details}");
+
+            CorrectAnswer = CurrentWord.Engelsk;
+            break;
+        }
+
+        AddStarLine();
+
+        return CorrectAnswer;
+    }
+
+    private void DisplayHint(Word CurrentWord, SupportedDirections Direction){
+        Console.Clear();
+        AddStarLine();
+
+        if (Direction == SupportedDirections.Danish_To_English)
+            Console.WriteLine($"Current Word: {CurrentWord.Dansk}");
+        else
+            Console.WriteLine($"Current Word: {CurrentWord.Engelsk}");
+
+        Console.WriteLine("You asked for a hint:\n");
+        Console.WriteLine($"Hint:{CurrentWord.Vink}");
+        AddStarLine();
+    }
 
     private void RightAnswerResult(string CorrectAnswer, string QuestionWord, string Answer)
     {

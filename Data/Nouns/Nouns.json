@@ -1,682 +1,853 @@
 [
     {
         "Dansk": "menneske",
-        "Engelsk": "person"
+        "Engelsk": "person",
+        "Vink": "Hvert menneske er unikt."
     },
     {
         "Dansk": "tid",
-        "Engelsk": "time"
+        "Engelsk": "time",
+        "Vink": "Tiden går hurtigt."
     },
     {
         "Dansk": "dag",
-        "Engelsk": "day"
+        "Engelsk": "day",
+        "Vink": "Det er en smuk dag."
     },
     {
         "Dansk": "år",
-        "Engelsk": "year"
+        "Engelsk": "year",
+        "Vink": "Et år har 365 dage."
     },
     {
         "Dansk": "sted",
-        "Engelsk": "place"
+        "Engelsk": "place",
+        "Vink": "Dette er et roligt sted."
     },
     {
         "Dansk": "ting",
-        "Engelsk": "thing"
+        "Engelsk": "thing",
+        "Vink": "Nogle ting kan ikke købes med penge."
     },
     {
         "Dansk": "måned",
-        "Engelsk": "month"
+        "Engelsk": "month",
+        "Vink": "En måned har fire uger."
     },
     {
         "Dansk": "aften",
-        "Engelsk": "evening"
+        "Engelsk": "evening",
+        "Vink": "Vi mødes i aften."
     },
     {
         "Dansk": "morgen",
-        "Engelsk": "morning"
+        "Engelsk": "morning",
+        "Vink": "Morgensolen er smuk."
     },
     {
         "Dansk": "nat",
-        "Engelsk": "night"
+        "Engelsk": "night",
+        "Vink": "Stjernerne lyser om natten."
     },
     {
         "Dansk": "hus",
-        "Engelsk": "house"
+        "Engelsk": "house",
+        "Vink": "Dette er vores hus."
     },
     {
         "Dansk": "børn",
-        "Engelsk": "children"
+        "Engelsk": "children",
+        "Vink": "Børn elsker at lege."
     },
     {
         "Dansk": "liv",
-        "Engelsk": "life"
+        "Engelsk": "life",
+        "Vink": "Livet er en rejse."
     },
     {
         "Dansk": "del",
-        "Engelsk": "part"
+        "Engelsk": "part",
+        "Vink": "Hver del spiller en rolle."
     },
     {
         "Dansk": "arbejde",
-        "Engelsk": "work"
+        "Engelsk": "work",
+        "Vink": "Arbejde kræver dedikation."
     },
     {
         "Dansk": "penge",
-        "Engelsk": "money"
+        "Engelsk": "money",
+        "Vink": "Penge kan ikke købe lykke."
     },
     {
         "Dansk": "vej",
-        "Engelsk": "road"
+        "Engelsk": "road",
+        "Vink": "Vejen er lang og strakt."
     },
     {
         "Dansk": "dør",
-        "Engelsk": "door"
+        "Engelsk": "door",
+        "Vink": "Hold døren åben for andre."
     },
     {
         "Dansk": "by",
-        "Engelsk": "city"
+        "Engelsk": "city",
+        "Vink": "Bylivet er travlt."
     },
     {
         "Dansk": "vand",
-        "Engelsk": "water"
+        "Engelsk": "water",
+        "Vink": "Vand er essentielt for livet."
     },
     {
         "Dansk": "luft",
-        "Engelsk": "air"
+        "Engelsk": "air",
+        "Vink": "Frisk luft er godt for helbredet."
     },
     {
         "Dansk": "jord",
-        "Engelsk": "earth"
+        "Engelsk": "earth",
+        "Vink": "Naturen giver os jord."
     },
     {
         "Dansk": "træ",
-        "Engelsk": "tree"
+        "Engelsk": "tree",
+        "Vink": "Træer giver ilt og skygge."
     },
     {
         "Dansk": "plads",
-        "Engelsk": "space"
+        "Engelsk": "space",
+        "Vink": "Der er masser af plads til alle."
     },
     {
         "Dansk": "arbejdsplads",
-        "Engelsk": "workplace"
+        "Engelsk": "workplace",
+        "Vink": "En god arbejdsplads er vigtig."
     },
     {
         "Dansk": "familie",
-        "Engelsk": "family"
+        "Engelsk": "family",
+        "Vink": "Familie er en vigtig støtte."
     },
     {
         "Dansk": "ven",
-        "Engelsk": "friend"
+        "Engelsk": "friend",
+        "Vink": "Venner deler glæder og sorger."
     },
     {
         "Dansk": "bog",
-        "Engelsk": "book"
+        "Engelsk": "book",
+        "Vink": "En god bog kan fortrylle dig."
     },
     {
         "Dansk": "film",
-        "Engelsk": "movie"
+        "Engelsk": "movie",
+        "Vink": "En god film underholder os."
     },
     {
         "Dansk": "musik",
-        "Engelsk": "music"
+        "Engelsk": "music",
+        "Vink": "Musik kan røre sjælen."
     },
     {
         "Dansk": "mad",
-        "Engelsk": "food"
+        "Engelsk": "food",
+        "Vink": "God mad bringer glæde."
     },
     {
         "Dansk": "drikke",
-        "Engelsk": "drink"
+        "Engelsk": "drink",
+        "Vink": "Drikkevand er vigtigt."
     },
     {
         "Dansk": "øjeblik",
-        "Engelsk": "moment"
+        "Engelsk": "moment",
+        "Vink": "Tag et øjeblik og nyd det."
     },
     {
         "Dansk": "problem",
-        "Engelsk": "problem"
+        "Engelsk": "problem",
+        "Vink": "Problemer har løsninger."
     },
     {
         "Dansk": "sprog",
-        "Engelsk": "language"
+        "Engelsk": "language",
+        "Vink": "At lære et nyt sprog er spændende."
     },
     {
         "Dansk": "skole",
-        "Engelsk": "school"
+        "Engelsk": "school",
+        "Vink": "Skolegang former vores fremtid."
     },
     {
         "Dansk": "lærer",
-        "Engelsk": "teacher"
+        "Engelsk": "teacher",
+        "Vink": "Lærere inspirerer os til at lære."
     },
     {
         "Dansk": "elev",
-        "Engelsk": "student"
+        "Engelsk": "student",
+        "Vink": "Elever lærer og vokser."
     },
     {
         "Dansk": "billede",
-        "Engelsk": "picture"
+        "Engelsk": "picture",
+        "Vink": "Et billede fortæller tusind ord."
     },
     {
         "Dansk": "ord",
-        "Engelsk": "word"
+        "Engelsk": "word",
+        "Vink": "Ord har magt og betydning."
     },
     {
         "Dansk": "spil",
-        "Engelsk": "game"
+        "Engelsk": "game",
+        "Vink": "Spil bringer sjov og konkurrence."
     },
     {
         "Dansk": "sport",
-        "Engelsk": "sport"
+        "Engelsk": "sport",
+        "Vink": "Sport holder os sunde og aktive."
     },
     {
         "Dansk": "verden",
-        "Engelsk": "world"
+        "Engelsk": "world",
+        "Vink": "Verden er fyldt med mangfoldighed."
     },
     {
         "Dansk": "land",
-        "Engelsk": "country"
+        "Engelsk": "country",
+        "Vink": "Hvert land har sin egen kultur."
     },
     {
         "Dansk": "indtryk",
-        "Engelsk": "impression"
+        "Engelsk": "impression",
+        "Vink": "Det første indtryk er vigtigt."
     },
     {
         "Dansk": "oplevelse",
-        "Engelsk": "experience"
+        "Engelsk": "experience",
+        "Vink": "Livet er fyldt med oplevelser."
     },
     {
         "Dansk": "rejse",
-        "Engelsk": "journey"
+        "Engelsk": "journey",
+        "Vink": "En rejse begynder med det første skridt."
     },
     {
         "Dansk": "tur",
-        "Engelsk": "trip"
+        "Engelsk": "trip",
+        "Vink": "En tur kan være eventyrlig."
     },
     {
         "Dansk": "ferie",
-        "Engelsk": "vacation"
+        "Engelsk": "vacation",
+        "Vink": "Ferie er en pause fra rutinen."
     },
     {
         "Dansk": "historie",
-        "Engelsk": "history"
+        "Engelsk": "history",
+        "Vink": "Historien formes af fortiden."
     },
     {
         "Dansk": "tidspunkt",
-        "Engelsk": "time (point in time)"
+        "Engelsk": "time (point in time)",
+        "Vink": "Dette tidspunkt er afgørende."
     },
     {
         "Dansk": "øje",
-        "Engelsk": "eye"
+        "Engelsk": "eye",
+        "Vink": "Øjne spejler sjælen."
     },
     {
         "Dansk": "hånd",
-        "Engelsk": "hand"
+        "Engelsk": "hand",
+        "Vink": "En varm håndtryk er indbydende."
     },
     {
         "Dansk": "fod",
-        "Engelsk": "foot"
+        "Engelsk": "foot",
+        "Vink": "Fødder bærer os gennem livet."
     },
     {
         "Dansk": "hoved",
-        "Engelsk": "head"
+        "Engelsk": "head",
+        "Vink": "Hold hovedet højt."
     },
     {
         "Dansk": "hjerte",
-        "Engelsk": "heart"
+        "Engelsk": "heart",
+        "Vink": "Hjertet symboliserer kærlighed."
     },
     {
         "Dansk": "krop",
-        "Engelsk": "body"
+        "Engelsk": "body",
+        "Vink": "En sund krop er en sund sjæl."
     },
     {
         "Dansk": "næse",
-        "Engelsk": "nose"
+        "Engelsk": "nose",
+        "Vink": "Næsen er vores lugtesans."
     },
     {
         "Dansk": "mund",
-        "Engelsk": "mouth"
+        "Engelsk": "mouth",
+        "Vink": "Munden udtrykker vores ord."
     },
     {
         "Dansk": "øre",
-        "Engelsk": "ear"
+        "Engelsk": "ear",
+        "Vink": "Ører hører skønheden i lyden."
     },
     {
         "Dansk": "hårbørste",
-        "Engelsk": "hairbrush"
+        "Engelsk": "hairbrush",
+        "Vink": "Brug hårbørsten til at rede dit hår hver morgen."
     },
     {
         "Dansk": "tand",
-        "Engelsk": "tooth"
+        "Engelsk": "tooth",
+        "Vink": "Husk at børste dine tænder to gange om dagen for sunde tænder."
     },
     {
         "Dansk": "nætter",
-        "Engelsk": "night (plural)"
+        "Engelsk": "night (plural)",
+        "Vink": "Stjernerne skinner om natten."
     },
     {
         "Dansk": "drøm",
-        "Engelsk": "dream"
+        "Engelsk": "dream",
+        "Vink": "Jeg havde en dejlig drøm i nat."
     },
     {
         "Dansk": "stjerne",
-        "Engelsk": "star"
+        "Engelsk": "star",
+        "Vink": "Ønsk dig noget, når du ser en stjerne på himlen."
     },
     {
         "Dansk": "sol",
-        "Engelsk": "sun"
+        "Engelsk": "sun",
+        "Vink": "Solens varme gør dagen behagelig."
     },
     {
         "Dansk": "måne",
-        "Engelsk": "moon"
+        "Engelsk": "moon",
+        "Vink": "Månen lyser op nattehimlen."
     },
     {
         "Dansk": "farve",
-        "Engelsk": "color"
+        "Engelsk": "color",
+        "Vink": "Mal dit billede med mange forskellige farver."
     },
     {
         "Dansk": "form",
-        "Engelsk": "shape"
+        "Engelsk": "shape",
+        "Vink": "Denne form ligner en cirkel."
     },
     {
         "Dansk": "nummer",
-        "Engelsk": "number"
+        "Engelsk": "number",
+        "Vink": "Husk dit telefonnummer."
     },
     {
         "Dansk": "brev",
-        "Engelsk": "letter"
+        "Engelsk": "letter",
+        "Vink": "Send mig et brev, når du har tid."
     },
     {
         "Dansk": "svar",
-        "Engelsk": "answer"
+        "Engelsk": "answer",
+        "Vink": "Kan du give mig et hurtigt svar?"
     },
     {
         "Dansk": "spørgsmål",
-        "Engelsk": "question"
+        "Engelsk": "question",
+        "Vink": "Hvis du har et spørgsmål, så spørg endelig."
     },
     {
         "Dansk": "løsning",
-        "Engelsk": "solution"
+        "Engelsk": "solution",
+        "Vink": "Find den bedste løsning på problemet."
     },
     {
         "Dansk": "ide",
-        "Engelsk": "idea"
+        "Engelsk": "idea",
+        "Vink": "Har du en god idé til projektet?"
     },
     {
         "Dansk": "plan",
-        "Engelsk": "plan"
+        "Engelsk": "plan",
+        "Vink": "Lad os lave en plan for weekenden."
     },
     {
         "Dansk": "opgave",
-        "Engelsk": "task"
+        "Engelsk": "task",
+        "Vink": "Din opgave er at afslutte rapporten i dag."
     },
     {
         "Dansk": "opdagelse",
-        "Engelsk": "discovery"
+        "Engelsk": "discovery",
+        "Vink": "Denne opdagelse ændrer vores forståelse af universet."
     },
     {
         "Dansk": "kærlighed",
-        "Engelsk": "love"
+        "Engelsk": "love",
+        "Vink": "Kærlighed gør livet smukt."
     },
     {
         "Dansk": "følelse",
-        "Engelsk": "feeling"
+        "Engelsk": "feeling",
+        "Vink": "Nogle gange er det svært at forstå egne følelser."
     },
     {
         "Dansk": "glæde",
-        "Engelsk": "joy"
+        "Engelsk": "joy",
+        "Vink": "Din succes bringer mig stor glæde."
     },
     {
         "Dansk": "sorg",
-        "Engelsk": "sorrow"
+        "Engelsk": "sorrow",
+        "Vink": "Vi deler sorgen over tabet."
     },
     {
         "Dansk": "smerte",
-        "Engelsk": "pain"
+        "Engelsk": "pain",
+        "Vink": "Geléen lindrer smerten på huden."
     },
     {
         "Dansk": "håb",
-        "Engelsk": "hope"
+        "Engelsk": "hope",
+        "Vink": "Selv i mørke tider er der altid håb."
     },
     {
         "Dansk": "drage",
-        "Engelsk": "dragon"
+        "Engelsk": "dragon",
+        "Vink": "Legenden fortæller om en farlig drage i bjergene."
     },
     {
         "Dansk": "fugl",
-        "Engelsk": "bird"
+        "Engelsk": "bird",
+        "Vink": "Se den farverige fugl i træet."
     },
     {
         "Dansk": "hund",
-        "Engelsk": "dog"
+        "Engelsk": "dog",
+        "Vink": "Min hund elsker at gå i parken."
     },
     {
         "Dansk": "kat",
-        "Engelsk": "cat"
+        "Engelsk": "cat",
+        "Vink": "Katten hviler på vindueskarmen."
     },
     {
         "Dansk": "dyr",
-        "Engelsk": "animal"
+        "Engelsk": "animal",
+        "Vink": "Afrikas savanne er hjemsted for mange vilde dyr."
     },
     {
         "Dansk": "fisk",
-        "Engelsk": "fish"
+        "Engelsk": "fish",
+        "Vink": "Vi spiser friskfanget fisk til middag."
     },
     {
         "Dansk": "insekt",
-        "Engelsk": "insect"
+        "Engelsk": "insect",
+        "Vink": "Sommerfuglen flyver fra blomst til blomst."
     },
     {
         "Dansk": "blomst",
-        "Engelsk": "flower"
+        "Engelsk": "flower",
+        "Vink": "Haven er fyldt med smukke blomster om foråret."
     },
     {
         "Dansk": "trøje",
-        "Engelsk": "sweater"
+        "Engelsk": "sweater",
+        "Vink": "Tag en varm trøje på, det er koldt udenfor."
     },
     {
         "Dansk": "bukser",
-        "Engelsk": "pants"
+        "Engelsk": "pants",
+        "Vink": "Disse bukser er meget behagelige at have på."
     },
     {
         "Dansk": "sko",
-        "Engelsk": "shoes"
+        "Engelsk": "shoes",
+        "Vink": "Mine sko er blevet våde i regnen."
     },
     {
         "Dansk": "hat",
-        "Engelsk": "hat"
+        "Engelsk": "hat",
+        "Vink": "Brug en hat for at beskytte dig mod solen."
     },
     {
         "Dansk": "jakke",
-        "Engelsk": "jacket"
+        "Engelsk": "jacket",
+        "Vink": "Tag din jakke med, det bliver koldt senere."
     },
     {
         "Dansk": "taske",
-        "Engelsk": "bag"
+        "Engelsk": "bag",
+        "Vink": "Jeg har altid min computer i tasken."
     },
     {
         "Dansk": "bil",
-        "Engelsk": "car"
+        "Engelsk": "car",
+        "Vink": "Vi kører i bilen til stranden i weekenden."
     },
     {
         "Dansk": "cykel",
-        "Engelsk": "bicycle"
+        "Engelsk": "bicycle",
+        "Vink": "Brug din cykel til at udforske byen."
     },
     {
         "Dansk": "tog",
-        "Engelsk": "train"
+        "Engelsk": "train",
+        "Vink": "Tag toget for at undgå trafikken."
     },
     {
         "Dansk": "bus",
-        "Engelsk": "bus"
+        "Engelsk": "bus",
+        "Vink": "Bussen stopper ved hjørnet af gaden."
     },
     {
         "Dansk": "fly",
-        "Engelsk": "plane"
+        "Engelsk": "plane",
+        "Vink": "Flyet letter fra lufthavnen om en time."
     },
     {
         "Dansk": "skib",
-        "Engelsk": "ship"
+        "Engelsk": "ship",
+        "Vink": "Skibet sejler over det åbne hav."
     },
     {
         "Dansk": "computer",
-        "Engelsk": "computer"
+        "Engelsk": "computer",
+        "Vink": "Min computer har brug for en opgradering."
     },
     {
         "Dansk": "telefon",
-        "Engelsk": "phone"
+        "Engelsk": "phone",
+        "Vink": "Jeg ringer dig op på telefonen senere."
     },
     {
         "Dansk": "fjernsyn",
-        "Engelsk": "television"
+        "Engelsk": "television",
+        "Vink": "Vi ser en spændende film i fjernsynet i aften."
     },
     {
         "Dansk": "radio",
-        "Engelsk": "radio"
+        "Engelsk": "radio",
+        "Vink": "Tænd radioen, jeg vil høre nyhederne."
     },
     {
         "Dansk": "avis",
-        "Engelsk": "newspaper"
+        "Engelsk": "newspaper",
+        "Vink": "Jeg læser avisen hver morgen."
     },
     {
         "Dansk": "blyant",
-        "Engelsk": "pencil"
+        "Engelsk": "pencil",
+        "Vink": "Brug en blyant til at tegne."
     },
     {
         "Dansk": "pen",
-        "Engelsk": "pen"
+        "Engelsk": "pen",
+        "Vink": "Skriv din underskrift med en pen."
     },
     {
         "Dansk": "papir",
-        "Engelsk": "paper"
+        "Engelsk": "paper",
+        "Vink": "Notér dine ideer på papir."
     },
     {
         "Dansk": "bogreol",
-        "Engelsk": "bookshelf"
+        "Engelsk": "bookshelf",
+        "Vink": "Alle mine bøger står på bogreolen."
     },
     {
         "Dansk": "skrivebord",
-        "Engelsk": "desk"
+        "Engelsk": "desk",
+        "Vink": "Jeg arbejder ved skrivebordet hver dag."
     },
     {
         "Dansk": "stol",
-        "Engelsk": "chair"
+        "Engelsk": "chair",
+        "Vink": "Tag en pause og sæt dig i stolen."
     },
     {
         "Dansk": "sofa",
-        "Engelsk": "sofa"
+        "Engelsk": "sofa",
+        "Vink": "Sofaen er perfekt til afslapning."
     },
     {
         "Dansk": "bord",
-        "Engelsk": "table"
+        "Engelsk": "table",
+        "Vink": "Vi samles om bordet til middag."
     },
     {
         "Dansk": "køkken",
-        "Engelsk": "kitchen"
+        "Engelsk": "kitchen",
+        "Vink": "Jeg laver mad i køkkenet lige nu."
     },
     {
         "Dansk": "badeværelse",
-        "Engelsk": "bathroom"
+        "Engelsk": "bathroom",
+        "Vink": "Badeværelset er ved siden af soveværelset."
     },
     {
         "Dansk": "soveværelse",
-        "Engelsk": "bedroom"
+        "Engelsk": "bedroom",
+        "Vink": "Jeg hviler mig i soveværelset."
     },
     {
         "Dansk": "dørklokke",
-        "Engelsk": "doorbell"
+        "Engelsk": "doorbell",
+        "Vink": "Ring på dørklokken, så åbner jeg døren."
     },
     {
         "Dansk": "nøgle",
-        "Engelsk": "key"
+        "Engelsk": "key",
+        "Vink": "Har du set min nøgle? Jeg kan ikke finde den."
     },
     {
         "Dansk": "lomme",
-        "Engelsk": "pocket"
+        "Engelsk": "pocket",
+        "Vink": "Jeg har altid min telefon i lommen."
     },
     {
         "Dansk": "briller",
-        "Engelsk": "glasses"
+        "Engelsk": "glasses",
+        "Vink": "Brug dine briller for bedre syn."
     },
     {
         "Dansk": "ur",
-        "Engelsk": "watch"
+        "Engelsk": "watch",
+        "Vink": "Mit ur stoppede, det skal repareres."
     },
     {
         "Dansk": "klokke",
-        "Engelsk": "clock"
+        "Engelsk": "clock",
+        "Vink": "Klokken ringer, det er tid til at stå op."
     },
     {
         "Dansk": "spejl",
-        "Engelsk": "mirror"
+        "Engelsk": "mirror",
+        "Vink": "Se dig selv i spejlet, du ser fantastisk ud."
     },
     {
         "Dansk": "billede",
-        "Engelsk": "painting"
+        "Engelsk": "painting",
+        "Vink": "Hæng dette smukke billede på væggen."
     },
     {
         "Dansk": "film",
-        "Engelsk": "film (motion picture)"
+        "Engelsk": "movie",
+        "Details": "Motion picture",
+        "Vink": "Vi ser en film i aften. Den er en spændende motion picture."
     },
     {
         "Dansk": "scene",
-        "Engelsk": "stage"
+        "Engelsk": "stage",
+        "Vink": "Skuespillerne optræder på scenen i teatret."
     },
     {
         "Dansk": "teater",
-        "Engelsk": "theater"
+        "Engelsk": "theater",
+        "Vink": "Vi skal se en forestilling i teatret i weekenden."
     },
     {
         "Dansk": "skuespiller",
-        "Engelsk": "actor"
+        "Engelsk": "actor",
+        "Vink": "Skuespilleren leverede en fantastisk præstation i filmen."
     },
     {
         "Dansk": "musiker",
-        "Engelsk": "musician"
+        "Engelsk": "musician",
+        "Vink": "Min ven er en dygtig musiker og kan spille flere instrumenter."
     },
     {
         "Dansk": "maler",
-        "Engelsk": "painter"
+        "Engelsk": "painter",
+        "Vink": "Kunstgalleriet udstiller malerens seneste værker."
     },
     {
         "Dansk": "forfatter",
-        "Engelsk": "author"
+        "Engelsk": "author",
+        "Vink": "Forfatteren skrev en bestseller roman sidste år."
     },
     {
         "Dansk": "digter",
-        "Engelsk": "poet"
+        "Engelsk": "poet",
+        "Vink": "Digteren reciterede smukke vers under poesiaftenen."
     },
     {
         "Dansk": "journalist",
-        "Engelsk": "journalist"
+        "Engelsk": "journalist",
+        "Vink": "Journalisten interviewede berømtheden på den røde løber."
     },
     {
         "Dansk": "fotograf",
-        "Engelsk": "photographer"
+        "Engelsk": "photographer",
+        "Vink": "Fotografen fangede det perfekte øjeblik på billedet."
     },
     {
         "Dansk": "direktør",
-        "Engelsk": "director"
+        "Engelsk": "director",
+        "Vink": "Filmdirektøren instruerede skuespillerne på filmsettet."
     },
     {
         "Dansk": "chef",
-        "Engelsk": "boss"
+        "Engelsk": "boss",
+        "Vink": "Chefen annoncerede en ekstra fridag som en overraskelse."
     },
     {
         "Dansk": "medarbejder",
-        "Engelsk": "employee"
+        "Engelsk": "employee",
+        "Vink": "Medarbejderen modtog en pris for fremragende arbejde."
     },
     {
         "Dansk": "kollega",
-        "Engelsk": "colleague"
+        "Engelsk": "colleague",
+        "Vink": "Mine kolleger er meget støttende på arbejdspladsen."
     },
     {
         "Dansk": "nabo",
-        "Engelsk": "neighbor"
+        "Engelsk": "neighbor",
+        "Vink": "Vi inviterede naboen til middag for at lære dem bedre at kende."
     },
     {
         "Dansk": "ven",
-        "Engelsk": "friend"
+        "Engelsk": "friend",
+        "Vink": "Bedste venner deler glæder og sorger sammen."
     },
     {
         "Dansk": "fjende",
-        "Engelsk": "enemy"
+        "Engelsk": "enemy",
+        "Vink": "Det er bedre at forlige sig end at have en fjende."
     },
     {
         "Dansk": "kæreste",
-        "Engelsk": "boyfriend/girlfriend"
+        "Engelsk": "boyfriend/girlfriend",
+        "Vink": "Min kæreste og jeg skal ud at spise i aften."
     },
     {
         "Dansk": "ægtefælle",
-        "Engelsk": "spouse"
+        "Engelsk": "spouse",
+        "Vink": "Min ægtefælle og jeg fejrer vores jubilæum i dag."
     },
     {
         "Dansk": "forælder",
-        "Engelsk": "parent"
+        "Engelsk": "parent",
+        "Vink": "Forældre støtter altid deres børn."
     },
     {
         "Dansk": "barn",
-        "Engelsk": "child"
+        "Engelsk": "child",
+        "Vink": "Hun er et eneste barn i familien."
     },
     {
         "Dansk": "søster",
-        "Engelsk": "sister"
+        "Engelsk": "sister",
+        "Vink": "Min søster og jeg har en tæt forbindelse."
     },
     {
         "Dansk": "bror",
-        "Engelsk": "brother"
+        "Engelsk": "brother",
+        "Vink": "Min bror hjalp mig med at løse problemet."
     },
     {
         "Dansk": "bedsteforælder",
-        "Engelsk": "grandparent"
+        "Engelsk": "grandparent",
+        "Vink": "Bedsteforældre elsker at forkæle deres børnebørn."
     },
     {
         "Dansk": "barnebarn",
-        "Engelsk": "grandchild"
+        "Engelsk": "grandchild",
+        "Vink": "Mit barnebarn er min største glæde."
     },
     {
         "Dansk": "onkel",
-        "Engelsk": "uncle"
+        "Engelsk": "uncle",
+        "Vink": "Min onkel har mange sjove historier at dele."
     },
     {
         "Dansk": "tante",
-        "Engelsk": "aunt"
+        "Engelsk": "aunt",
+        "Vink": "Min tante er en fantastisk kok."
     },
     {
         "Dansk": "fætter",
-        "Engelsk": "cousin (male)"
+        "Engelsk": "cousin (male)",
+        "Vink": "Min fætter og jeg er som brødre."
     },
     {
         "Dansk": "kusine",
-        "Engelsk": "cousin (female)"
+        "Engelsk": "cousin (female)",
+        "Vink": "Min kusine og jeg deler mange barndomsminder."
     },
     {
         "Dansk": "svigerforælder",
-        "Engelsk": "parent-in-law"
+        "Engelsk": "parent-in-law",
+        "Vink": "Mine svigerforældre er meget støttende."
     },
     {
         "Dansk": "svoger",
-        "Engelsk": "brother-in-law"
+        "Engelsk": "brother-in-law",
+        "Vink": "Min svoger er en sjov og venlig person."
     },
     {
         "Dansk": "svigerinde",
-        "Engelsk": "sister-in-law"
+        "Engelsk": "sister-in-law",
+        "Vink": "Min svigerinde og jeg deler mange interesser."
     },
     {
         "Dansk": "niece",
-        "Engelsk": "niece"
+        "Engelsk": "niece",
+        "Vink": "Min niece elsker at læse bøger og tegne."
     },
     {
         "Dansk": "nevø",
-        "Engelsk": "nephew"
+        "Engelsk": "nephew",
+        "Vink": "Min nevø er en energisk og eventyrlysten dreng."
     },
     {
         "Dansk": "bryllup",
-        "Engelsk": "wedding"
+        "Engelsk": "wedding",
+        "Vink": "Brylluppet var smukt med masser af glade øjeblikke."
     },
     {
         "Dansk": "fest",
-        "Engelsk": "party"
+        "Engelsk": "party",
+        "Vink": "Vi planlægger at have en stor fest til nytår."
     },
     {
         "Dansk": "koncert",
-        "Engelsk": "concert"
+        "Engelsk": "concert",
+        "Vink": "Jeg nyder virkelig at gå til koncerter med vennerne."
     },
     {
         "Dansk": "festival",
-        "Engelsk": "festival"
+        "Engelsk": "festival",
+        "Vink": "Sommerfestivalen tiltrak tusindvis af besøgende."
     },
     {
         "Dansk": "ferie",
-        "Engelsk": "holiday"
+        "Engelsk": "holiday",
+        "Vink": "Vi skal på ferie til et tropisk paradis."
     },
     {
         "Dansk": "jul",
-        "Engelsk": "Christmas"
+        "Engelsk": "Christmas",
+        "Vink": "Julen er en tid fyldt med glæde og festligheder."
     },
     {
         "Dansk": "påske",
-        "Engelsk": "Easter"
+        "Engelsk": "Easter",
+        "Vink": "Vi maler æg og fejrer påsken med familien."
     },
     {
         "Dansk": "fødselsdag",
-        "Engelsk": "birthday"
+        "Engelsk": "birthday",
+        "Vink": "Min fødselsdag er om to uger, og jeg planlægger en fest."
     }
 ]
