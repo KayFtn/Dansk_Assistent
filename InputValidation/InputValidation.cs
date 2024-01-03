@@ -37,6 +37,13 @@ public class InputValidation
             return false;
         }
         else{
+            if (Convert.ToInt32(intInput) != 1 && Convert.ToInt32(intInput) != 2 && Convert.ToInt32(intInput) != 3){
+                Console.Clear();
+                Console.WriteLine("Invalid number. Please answer with either 1,2 or 3.\nPress Enter to try again.");
+                Console.ReadKey();
+                return false;
+            }
+
             UserChoice = intInput;
             return true;
         }
@@ -77,6 +84,14 @@ public class InputValidation
             return false;
         }
         else{
+            if (Convert.ToInt32(Input) != 1 && Convert.ToInt32(Input) != 2){
+                Console.Clear();
+                Console.WriteLine("Invalid number. Please answer with either 1 or 2.\nPress Enter to try again.");
+                Console.ReadKey();
+                return false;
+            }
+
+
             Direction = Enum.GetName(typeof(SupportedDirections), Convert.ToInt32(Input));
             return true;
         }
