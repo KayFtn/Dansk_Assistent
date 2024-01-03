@@ -7,6 +7,6 @@
 
     public enum SupportedDirections : int
     {
-        Danish_To_English = 1,
-        English_To_Danish = 2
+        English_To_Danish = 1,
+        Danish_To_English = 2
     }
