@@ -101,7 +101,12 @@ public class Questions
     private void RightAnswerResult(string CorrectAnswer, string QuestionWord, string Answer)
     {
         Console.Clear();
-        Console.WriteLine($"Correct! You Answered: '{Answer}'\nThe answer for '{QuestionWord}' was indeed: '{CorrectAnswer}'");
+
+        Console.ForegroundColor = ConsoleColor.Green;
+        Console.WriteLine("Correct!"); 
+        Console.ForegroundColor = ConsoleColor.Gray;
+
+        Console.WriteLine($"You nswered: '{Answer}'\nThe answer for '{QuestionWord}' was indeed: '{CorrectAnswer}'");
         Console.WriteLine("Hit enter for the next prompt.");
         Console.ReadLine();
     }
@@ -109,7 +114,12 @@ public class Questions
        private void WrongAnswerResult(string CorrectAnswer, string QuestionWord, string Answer)
     {
         Console.Clear();
-        Console.WriteLine($"Wrong! You Answered: '{Answer}'\nThe correct answer for '{QuestionWord}' was: '{CorrectAnswer}'");
+
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.WriteLine("Wrong!"); 
+        Console.ForegroundColor = ConsoleColor.Gray;
+
+        Console.WriteLine($"You answered: '{Answer}'\nThe correct answer for '{QuestionWord}' was: '{CorrectAnswer}'");
         Console.WriteLine("Hit enter for the next prompt.");
         Console.ReadLine();
     }
