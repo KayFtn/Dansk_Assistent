@@ -12,8 +12,8 @@ public class Questions
     public void StartGame()
     {
         Console.Clear();
-        Console.WriteLine("The game will start in 5 Seconds.\nTry to answer each prompt honestly without cheating!!");  
-        Thread.Sleep(5000);
+        Console.WriteLine("The game will start in 2 Seconds.");  
+        Thread.Sleep(2000);
 
         for(int i = 0; i < WordList.Count; i++)
         {
@@ -87,13 +87,14 @@ public class Questions
     private void DisplayHint(Word CurrentWord, SupportedDirections Direction){
         Console.Clear();
         AddStarLine();
+        Console.WriteLine("HINT");
+        AddStarLine();
 
         if (Direction == SupportedDirections.Danish_To_English)
             Console.WriteLine($"Current Word: {CurrentWord.Dansk}");
         else
             Console.WriteLine($"Current Word: {CurrentWord.Engelsk}");
 
-        Console.WriteLine("You asked for a hint:\n");
         Console.WriteLine($"Hint:{CurrentWord.Vink}");
         AddStarLine();
     }
@@ -106,7 +107,7 @@ public class Questions
         Console.WriteLine("Correct!"); 
         Console.ForegroundColor = ConsoleColor.Gray;
 
-        Console.WriteLine($"You nswered: '{Answer}'\nThe answer for '{QuestionWord}' was indeed: '{CorrectAnswer}'");
+        Console.WriteLine($"You answered: '{Answer}'\nThe answer for '{QuestionWord}' was indeed: '{CorrectAnswer}'");
         Console.WriteLine("Hit enter for the next prompt.");
         Console.ReadLine();
     }

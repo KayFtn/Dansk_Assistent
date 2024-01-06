@@ -36,12 +36,6 @@
         "Details": ""
     },
     {
-        "Dansk": "at komme",
-        "Engelsk": "to come",
-        "Vink": "De kommer til festen",
-        "Details": ""
-    },
-    {
         "Dansk": "at se",
         "Engelsk": "to see",
         "Vink": "Jeg ser filmen",
@@ -87,7 +81,7 @@
         "Dansk": "at vide",
         "Engelsk": "to know",
         "Vink": "Han ved svaret",
-        "Details": "To know information"
+        "Details": ""
     },
     {
         "Dansk": "at tror",
@@ -123,7 +117,7 @@
         "Dansk": "at bede",
         "Engelsk": "to ask",
         "Vink": "Hun beder om hjælp",
-        "Details": ""
+        "Details": "more formal, used for questions"
     },
     {
         "Dansk": "at sidde",
@@ -249,12 +243,30 @@
         "Dansk": "at stille",
         "Engelsk": "to ask",
         "Vink": "Hun stiller et spørgsmål",
-        "Details": "a question"
+        "Details": "More polite, for favor or request"
     },
     {
         "Dansk": "at modtage",
         "Engelsk": "to receive",
         "Vink": "Vi modtager gaver",
         "Details": ""
+    },
+    {
+        "Dansk": "at råbe",
+        "Engelsk": "to shout",
+        "Vink": "han råber 'STOP'",
+        "Details": ""
+    },
+    {
+        "Dansk": "at skrige",
+        "Engelsk": "to scream",
+        "Vink": "De skriger meget højt",
+        "Details": ""
+    },
+    {
+        "Dansk":"at kende",
+        "Engelsk":"To know",
+        "Vink":"Jeg kender ham godt",
+        "Details":"Used to express familiarity with someone"
     }
 ]
