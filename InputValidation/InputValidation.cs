@@ -37,9 +37,9 @@ public class InputValidation
             return false;
         }
         else{
-            if (Convert.ToInt32(intInput) != 1 && Convert.ToInt32(intInput) != 2 && Convert.ToInt32(intInput) != 3){
+            if (!(Convert.ToInt32(intInput) > 0 && Convert.ToInt32(intInput) < 5)){
                 Console.Clear();
-                Console.WriteLine("Invalid number. Please answer with either 1,2 or 3.\nPress Enter to try again.");
+                Console.WriteLine("Invalid number. Please answer with a number from 1 to 4\nPress Enter to try again.");
                 Console.ReadKey();
                 return false;
             }

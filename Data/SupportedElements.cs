@@ -2,7 +2,8 @@
     {
         Verbs = 1,
         Nouns = 2,
-        Adjectives = 3
+        Adjectives = 3,
+        Adverbs = 4
     }
 
     public enum SupportedDirections : int

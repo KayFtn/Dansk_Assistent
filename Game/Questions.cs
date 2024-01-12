@@ -42,7 +42,7 @@ public class Questions
     private void EndGame(){
         Console.Clear();
         AddStarLine();
-        Console.WriteLine("Our list of verbs is over! Good work, and don't give up :)");
+        Console.WriteLine("Our list of words is over! Good work, and don't give up :)");
         AddStarLine();
     }
 
